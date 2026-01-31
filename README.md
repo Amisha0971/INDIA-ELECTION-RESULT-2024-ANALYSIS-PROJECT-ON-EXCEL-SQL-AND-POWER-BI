@@ -1,4 +1,4 @@
-# 🇮🇳 India General Election Results 2024 – Data Analytics Project
+# India General Election Results 2024 – Excel + SQL + Power Bi Project
 
 This project presents a comprehensive **analysis of the India General Election Results 2024** using **Excel, SQL, and Power BI**.  
 It focuses on alliance-wise, state-wise, party-wise, and constituency-level election outcomes through interactive dashboards.
