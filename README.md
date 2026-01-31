@@ -96,14 +96,6 @@ The Power BI report consists of the following dashboards:
 - Independent candidates secured seats in select regions
 - Clear regional voting patterns are visible through state-wise maps
 
----
-
-## 📁 Project Files
-
-- 📊 **India Election Results 2024 – Power BI Dashboard (PDF)**
-- 📄 **India Election Results 2024 – Project Documentation**
-
-
 
 ---
 
